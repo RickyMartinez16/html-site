@@ -1,0 +1,17 @@
+body{
+    background-color: aliceblue;
+}
+hr{
+    border-style: dotted;
+    width:50%
+}
+
+.bio{
+    text-align: center;
+    padding: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+h1{
+    color:aqua
+}
